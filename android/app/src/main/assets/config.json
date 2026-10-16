@@ -1,0 +1,27 @@
+{
+  "appName": "Web2APK",
+  "themeColor": "#1976D2",
+  "showTitleBar": true,
+  "drawer": {
+    "title": "Web2APK",
+    "bgType": "color",
+    "bgSrc": ""
+  },
+  "sites": [
+    {
+      "name": "Google",
+      "icon": "https://www.google.com/s2/favicons?domain=google.com&sz=64",
+      "url": "https://www.google.com"
+    },
+    {
+      "name": "YouTube",
+      "icon": "https://www.google.com/s2/favicons?domain=youtube.com&sz=64",
+      "url": "https://m.youtube.com"
+    },
+    {
+      "name": "Wikipedia",
+      "icon": "https://www.google.com/s2/favicons?domain=wikipedia.org&sz=64",
+      "url": "https://id.wikipedia.org"
+    }
+  ]
+}
